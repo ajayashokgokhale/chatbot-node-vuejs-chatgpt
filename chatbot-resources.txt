@@ -1,0 +1,5 @@
+Run node:
+node obagi-server.js
+
+Run Vuens
+npm run serve
